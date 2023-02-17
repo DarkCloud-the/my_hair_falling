@@ -1,10 +1,12 @@
-class main; 
-if getting = True:
-  return 'good' 
-    else getting = False: 
-      return 'Really bad' 
+starve = True
+class main:
+
+  if starve == True:
+    print ('good'); 
+  elif starve == False: 
+    print ('Really bad'); 
       
-if real == False:
-  return 'not ok?'
-elif real == True:
-  return 'really bad'
+  if real == False:
+    print('not ok?')
+  elif real == True:
+    print ('really bad')
