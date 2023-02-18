@@ -1,5 +1,6 @@
-input (print("what do you want to do today"))
+maybe = input (print("what do you want to do today"))
 Trophy = False
+hate = False
 main:
   if Trophy == True:
       print("I'm bored")
@@ -8,3 +9,9 @@ main:
         print("hello i'm alive")
   else: Trophy == False:
   print('just stop')
+  
+  if hate == False :
+    print(heck)
+    
+  elif hate == True:
+    print(maybe)
