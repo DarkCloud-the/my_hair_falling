@@ -1,4 +1,5 @@
 starve = True
+real = input(print("what is the subdomain"))
 class main:
 
   if starve == True:
