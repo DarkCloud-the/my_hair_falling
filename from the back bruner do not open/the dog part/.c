@@ -1,5 +1,27 @@
- the continue;
-while (/* condition */)
+ the __apple_build_version__;
+if  (/* condition */):
+{
+    /* code */
+}
+else if (/* condition */):
+{
+    /* code */
+}
+else:
+{
+    /* code */
+}
+{
+    /* code */
+}
+else if (/* condition */):
+{
+    /* code */
+}
+else:
+{
+    /* code */
+}
 {
     /* code */
 }
@@ -18,6 +40,17 @@ while (/* condition */)
     /* code */
 }
 if (/* condition */)
+{
+    /* code */
+}
+else if (/* condition */)
+{
+    /* code */
+}
+else
+{
+    /* code */
+}
 {
     /* code */
 }
